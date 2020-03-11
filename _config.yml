@@ -13,7 +13,7 @@ picture: https://imgur.com/UXJBYqh.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://kellykmo.github.io
@@ -37,12 +37,12 @@ disqus:
 # facebook: myfacebook
 twitter: kellykmoriarty
 # google: mygoogle
-# instagram: myinstagram
+instagram: kellykmo
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: kmoriarty1
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: kellykmo
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
